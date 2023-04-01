@@ -1,4 +1,5 @@
-#Target Business Case Study
+# Target-Business-Case-Study
+
 This GitHub repository contains a business case study from Target, a retail company. The objective of this study is to assume that you are a data scientist at Target and are given a set of data to analyze, and provide insights and recommendations based on the analysis. The analysis is done using SQL and no other programming language is used.
 
 Data Description
